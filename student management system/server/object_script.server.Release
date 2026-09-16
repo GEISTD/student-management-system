@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\serverwindow.o
+./release\tcpserver.o
+./release\databasemanager.o
+./release\studentdao.o
+./release\userdao.o
+./release\scoredao.o
+./release\businesslogic.o
+./release\moc_serverwindow.o
+./release\moc_tcpserver.o
+);

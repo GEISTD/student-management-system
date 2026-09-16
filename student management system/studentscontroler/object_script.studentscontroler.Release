@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\UIManager.o
+./release\databasemanager.o
+./release\studentdao.o
+./release\userdao.o
+./release\businesslogic.o
+./release\scoredao.o
+./release\fileexpoter.o
+./release\networkmanager.o
+./release\moc_UIManager.o
+./release\moc_networkmanager.o
+);

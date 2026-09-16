@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\UIManager.o
+./debug\databasemanager.o
+./debug\studentdao.o
+./debug\userdao.o
+./debug\businesslogic.o
+./debug\scoredao.o
+./debug\fileexpoter.o
+./debug\networkmanager.o
+./debug\moc_UIManager.o
+./debug\moc_networkmanager.o
+);
