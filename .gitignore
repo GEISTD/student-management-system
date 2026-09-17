@@ -1,0 +1,29 @@
+# Qt build artifacts
+*.o
+*.exe
+*.obj
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+moc_*.cpp
+moc_*.o
+moc_predefs.h
+qrc_*.cpp
+qrc_*.o
+ui_*.h
+debug/
+release/
+object_script.*
+
+# Qt project user files
+*.pro.user
+*.pro.user.*
+
+# Database files
+*.db
+
+# IDE
+.vs/
+.vscode/
+*.user
